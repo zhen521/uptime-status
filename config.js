@@ -1,12 +1,12 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'ZGQ Inc. の 站点监测',
+  SiteName: '摘星望月',
 
   // UptimeRobot API Keys
   // 支持Monitor-Specific API Keys和Read-Only API Key，推荐使用Read-Only API Key，可填写多个
   ApiKeys: [
-    'ur1884169-f2ddd4677953551305552673',
+    'ur1530813-a427bf5cb9ba5681a89a99f4',
   ],
 
   // 日志天数，建议90
@@ -19,11 +19,11 @@ window.Config = {
   Navi: [
     {
       text: '个人主页',
-      url: 'https://zgq-inc.github.io/'
+      url: 'https://hjha.cc'
     },
     {
       text: '项目地址',
-      url: 'https://github.com/ZGQ-inc/uptime-status'
+      url: 'https://github.com/zhen521/uptime-status'
     },
     {
       text: '原项目地址',
